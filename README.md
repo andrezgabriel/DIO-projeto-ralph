@@ -18,5 +18,7 @@ CSS3: Estilização dos elementos e layout responsivo.
 
 JavaScript: Lógica do jogo, controle de tempo e interações do usuário.
 
-# 🕹️ Como Jogar
+# 🎮 Como Jogar:
+
+[Clique Aqui Para Jogar!](https://andrezgabriel.github.io/DIO-projeto-ralph/)
 
